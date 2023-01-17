@@ -3,3 +3,5 @@ Esta es una funcion de github
 1/12/22
 
 Hoy quiero seguir aprendiendo, quiero ser mejor programador
+
+Vivomo mejor que ayer pero hoy estoy mejor que hoy
